@@ -21,6 +21,7 @@ public class BuildController extends BaseController
     @GetMapping()
     public String build()
     {
+
         return prefix + "/build";
     }
 }
