@@ -66,7 +66,7 @@
 		<logger name="java.sql" level="debug" />
 		<logger name="org.springframework.jdbc" level="debug" />
 	-->
-    style.css
+
 	<logger name="com.xinxing" level="info" />
 
 	<root level="info">
