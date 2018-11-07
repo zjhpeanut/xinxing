@@ -13,6 +13,7 @@
         <module>xinxing-framework</module>
         <module>xinxing-system</module>
         <module>xinxing-generator</module>
+        <module>xinxing-goods</module>
     </modules>
     <packaging>pom</packaging>
 
